@@ -6,6 +6,12 @@
   <img align="center" src="https://miro.medium.com/max/1400/1*CkTDHr6ptOwBM12bLPiW1A.png">
 </p>
 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=P1kSt3tedI4"><img src="https://i.ytimg.com/an_webp/P1kSt3tedI4/mqdefault_6s.webp?du=3000&sqp=CIjwhJEG&rs=AOn4CLAaEfGuvX0W3dYWMIhei-1UGMrm0g" alt="Explainer Video Link"></a>
+</div>
+
 ### Medium Article
 In this [Medium Article](https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7), we will build a container loading optimization 
 model using a heuristic method from a Python library.
