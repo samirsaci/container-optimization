@@ -13,7 +13,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://medium.com/towards-data-science/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7), we will build a container loading optimization 
+In this [Article](https://www.samirsaci.com/containers-loading-optimization-with-python/), we will build a container loading optimization 
 model using a heuristic method from a Python library.
 
 
